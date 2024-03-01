@@ -1,5 +1,8 @@
-### Hi there 👋
-
+# Welcome to CG-Circuits GitHub!
+Here you will find all the code snippets from the blog posts on the website
+---
+## Other Resources
+Find out more about our services here: https://cg-circuits.co.uk
 <!--
 **CG-Circuits/CG-Circuits** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
